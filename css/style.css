@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 16px;
+  background-color: #E7E0CB; }
+
+a {
+  text-decoration: none; }
+  a:visited {
+    color: #333; }
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin: 10px 0; }
+
+svg {
+  display: block;
+  background-color: white;
+  margin: 0 auto; }
+
+.tooltip {
+  background: #fff;
+  max-width: 150px; }
+  .tooltip p {
+    font-size: 0.9em;
+    font-weight: 600;
+    margin: 5px 0;
+    text-align: center; }
+
+.chart-name {
+  fill: #000;
+  font-size: 1.3em;
+  font-weight: 600; }
+
+.chart-extra {
+  fill: #000;
+  font-size: 1.1em;
+  font-weight: 600; }
+
+.span {
+  font-size: 0.9em;
+  font-weight: 400;
+  fill: #666; }
+
+.axis-title {
+  font-size: 1em;
+  font-weight: 500; }
+
+.data-name {
+  font-size: 0.7em; }
+
+footer {
+  color: #333; }
+  footer p {
+    text-align: center;
+    font-size: 0.9em; }
+
+/*# sourceMappingURL=style.css.map */
